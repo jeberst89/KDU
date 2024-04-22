@@ -6,3 +6,6 @@ clone_folder: c:\projects\kdu
 build:
   project: Source/kdu.sln
   verbosity: normal
+artifacts:
+  - path: output\x64\Release
+    name: kdu
