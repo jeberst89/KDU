@@ -7,5 +7,5 @@ build:
   project: Source/kdu.sln
   verbosity: normal
 artifacts:
-  - path: c:\projects\kdu\Source\Hamakaze\output\x64\Release
+  - path: Source\Hamakaze\output\x64\Release
     name: kdu
