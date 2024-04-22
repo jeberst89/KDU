@@ -9,3 +9,5 @@ build:
 artifacts:
   - path: Source\Hamakaze\output\x64\Release
     name: kdu
+  - path: Source\Tanikaze\output\x64\Release
+    name: drv
